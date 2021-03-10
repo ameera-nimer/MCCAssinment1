@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "379218901774",
+    "project_id": "mccapp-e3625",
+    "storage_bucket": "mccapp-e3625.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379218901774:android:2ea13622e5073ab1ceb55f",
+        "android_client_info": {
+          "package_name": "com.example.mcc1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379218901774-5jhl86ov2h7cnst5rtl7vs6s58jlr1i1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGCDxy4H70gTaxgYhqG8P_WT3FYdrwPO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379218901774-5jhl86ov2h7cnst5rtl7vs6s58jlr1i1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
